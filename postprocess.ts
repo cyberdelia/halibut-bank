@@ -5,4 +5,5 @@ const tsv = await readCSV(filename, {
   separator: ' ',
   trimLeadingSpace: true
 }) 
+tsv.shift()
 writeCSV('buoy.csv', tsv)
