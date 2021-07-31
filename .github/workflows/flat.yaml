@@ -21,4 +21,4 @@ jobs:
         with:
           http_url: https://www.ndbc.noaa.gov/data/realtime2/46146.txt
           downloaded_filename: buoy.tsv
-          postprocess: postprocess.js
+          postprocess: postprocess.ts
