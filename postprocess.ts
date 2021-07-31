@@ -4,4 +4,4 @@ const filename = Deno.args[0]
 const tsv = await readCSV(filename, {
   separator: '\t',
 }) 
-console.log(tsv)
+writeCSV('buoy.csv', tsv)
