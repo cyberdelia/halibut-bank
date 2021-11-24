@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period
+2021-11-24T12:00:00Z,100,5.0,6.0,0.2,4
 2021-11-24T11:00:00Z,100,5.0,6.0,0.2,4
 2021-11-24T10:00:00Z,120,3.0,4.0,0.1,2
 2021-11-24T09:00:00Z,40,2.0,3.0,0.2,2
@@ -22,4 +23,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period
 2021-11-23T13:00:00Z,320,9.0,11.0,0.7,4
 2021-11-23T12:00:00Z,310,8.0,10.0,0.4,3
 2021-11-23T11:00:00Z,280,5.0,6.0,0.4,4
-2021-11-23T10:00:00Z,250,2.0,2.0,0.5,4
