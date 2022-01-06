@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period
+2022-01-06T09:00:00Z,270,1.0,2.0,0.5,3
 2022-01-06T08:00:00Z,50,3.0,5.0,0.6,3
 2022-01-06T07:00:00Z,90,7.0,9.0,0.7,4
 2022-01-06T06:00:00Z,80,9.0,11.0,0.5,3
@@ -19,4 +20,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period
 2022-01-05T11:00:00Z,270,8.0,9.0,0.9,4
 2022-01-05T10:00:00Z,270,9.0,11.0,0.9,5
 2022-01-05T09:00:00Z,270,10.0,11.0,0.9,5
-2022-01-05T08:00:00Z,280,8.0,10.0,0.8,4
