@@ -15,7 +15,7 @@ jobs:
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
-          deno-version: deno-version: v1.10.x
+          deno-version: v1.10.x
       - name: Fetch data 
         uses: githubocto/flat@v3
         with:
