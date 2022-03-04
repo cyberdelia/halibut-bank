@@ -1,4 +1,4 @@
-import { readCSV, writeCSV } from "https://deno.land/x/flat@0.0.11/mod.ts";
+import { readCSV, writeCSV } from "https://deno.land/x/flat@0.0.14/mod.ts";
 
 const filename = Deno.args[0];
 
