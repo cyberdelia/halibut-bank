@@ -1,5 +1,6 @@
 #YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE
 #yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft
+2022 03 07 09 00 300  2.0  4.0   0.4     3    MM  MM 1033.2   7.3   7.7    MM   MM +0.4    MM
 2022 03 07 08 00 280  4.0  5.0   0.3     3    MM  MM 1032.9   7.8   7.7    MM   MM +0.2    MM
 2022 03 07 07 00 260  6.0  7.0   0.3     3    MM  MM 1032.9   7.9   7.7    MM   MM +0.3    MM
 2022 03 07 06 00 290  4.0   MM   0.5   3.0    MM  MM 1032.8   7.9   7.7    MM   MM +0.4    MM
@@ -22,4 +23,3 @@
 2022 03 06 11 00 290  5.0  6.0   0.5     4    MM  MM 1028.6   6.9   7.5    MM   MM +1.0    MM
 2022 03 06 10 00 270  5.0  6.0   0.6     4    MM  MM 1028.4   7.0   7.5    MM   MM +1.4    MM
 2022 03 06 09 00 270  8.0  9.0   0.7     4    MM  MM 1028.1   7.2   7.5    MM   MM +1.4    MM
-2022 03 06 08 00 270  8.0 10.0   0.8     4    MM  MM 1027.6   7.3   7.5    MM   MM +1.6    MM
