@@ -15,4 +15,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period
 2022-03-24T15:00:00Z,70,2.0,2.0,0.2,6
 2022-03-24T14:00:00Z,80,2.0,2.0,0.1,2
 2022-03-24T13:00:00Z,110,1.0,2.0,0.2,2
-2022-03-24T12:00:00Z,10,1.0,MM,0.0,3.0
