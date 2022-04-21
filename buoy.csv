@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period
+2022-04-21T10:00:00Z,40,5.0,5.0,0.5,4
 2022-04-21T09:00:00Z,70,7.0,9.0,0.7,4
 2022-04-21T08:00:00Z,80,9.0,11.0,0.7,4
 2022-04-21T07:00:00Z,80,8.0,10.0,0.9,4
@@ -21,4 +22,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period
 2022-04-20T12:00:00Z,60,7.0,8.0,0.4,3
 2022-04-20T11:00:00Z,60,7.0,8.0,0.4,3
 2022-04-20T10:00:00Z,60,7.0,8.0,0.4,3
-2022-04-20T09:00:00Z,60,7.0,9.0,0.3,3
